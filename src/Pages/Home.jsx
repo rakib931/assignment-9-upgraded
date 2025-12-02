@@ -14,7 +14,7 @@ const Home = () => {
         <ExtraSection />
       </section>
       <section className="md:max-w-[1240px] max-w-[350px] mx-auto my-4">
-        <h1 className="text-2xl font-semibold text-center text-white py-5">
+        <h1 className="text-2xl  font-semibold text-center text-white py-5">
           How it Work section{" "}
         </h1>
         <HowitWork />
