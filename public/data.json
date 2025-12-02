@@ -1,0 +1,74 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners. Learn chords, strumming patterns, and simple songs.",
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/GettyImages-471786284-1024x683.jpg",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions for non-native speakers focusing on fluency and pronunciation.",
+    "image": "https://i.ibb.co.com/MDBcPFng/Spoken-English-Practice.jpg",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Frontend Web Development",
+    "providerName": "David Lee",
+    "providerEmail": "david@skillswap.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Learn HTML, CSS, and JavaScript to build modern, responsive websites from scratch.",
+    "image": "https://i.ibb.co.com/KzF9y2bV/frontend.png",
+    "category": "Technology"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Digital Photography Basics",
+    "providerName": "Maya Rahman",
+    "providerEmail": "maya@skillswap.com",
+    "price": 25,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Master your camera settings, lighting, and composition to take stunning photos.",
+    "image": "https://i.ibb.co.com/679N0TQr/Digital-Photography-Basics.jpg",
+    "category": "Photography"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Basic Cooking Skills With Master Shef",
+    "providerName": "John Parker",
+    "providerEmail": "john@skillswap.com",
+    "price": 15,
+    "rating": 4.5,
+    "slotsAvailable": 6,
+    "description": "Learn essential cooking techniques and quick recipes for everyday meals.",
+    "image": "https://i.ibb.co.com/fdKvh77c/female-shef-herbs-shrimps-dish-professional-cook-decorating-restaurant-kitchen-smiling-82215530.webp",
+    "category": "Cooking"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Yoga for Beginners with Best Trainer",
+    "providerName": "Nina Patel",
+    "providerEmail": "nina@skillswap.com",
+    "price": 18,
+    "rating": 4.9,
+    "slotsAvailable": 3,
+    "description": "Improve flexibility, balance, and mindfulness through guided beginner yoga sessions.",
+    "image": "https://i.ibb.co.com/nqKp64v9/Yoga-for-Beginners.jpg",
+    "category": "Health & Fitness"
+  }
+]

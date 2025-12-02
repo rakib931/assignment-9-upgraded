@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "rating": 5.0,
+    "review": "The Learning Point ওয়েবসাইটটি দারুণ! এখানে সব কোর্স খুব সুন্দরভাবে সাজানো এবং ব্যবহার করা সহজ।",
+    "name": "Mubina Khanom",
+    "role": "Student",
+    "method": "The Learning Point",
+    "avatar": "https://i.ibb.co.com/7Jfvc7L8/download.png"
+  },
+  {
+    "id": 2,
+    "rating": 5.0,
+    "review": "এই ওয়েবসাইটের ইন্টারফেসটি খুবই পরিষ্কার এবং সহজবোধ্য। শেখার জন্য একদম পারফেক্ট।",
+    "name": "Rafiul Islam",
+    "role": "Student",
+    "method": "The Learning Point",
+    "avatar": "https://i.ibb.co.com/hFbHbGfP/bc9fd4bd-de9b-4555-976c-8360576c6708.jpg"
+  },
+  {
+    "id": 3,
+    "rating": 4.9,
+    "review": "The Learning Point এর ভিডিও লেকচারগুলো অনেক মানসম্মত। প্রতিটি টপিক বিস্তারিতভাবে শেখানো হয়েছে।",
+    "name": "Tahmina Akter",
+    "role": "Student",
+    "method": "The Learning Point",
+    "avatar": "https://i.ibb.co.com/xKsN9cmD/download.jpg"
+  },
+  {
+    "id": 4,
+    "rating": 5.0,
+    "review": "অনলাইন কোর্সগুলোর মান অসাধারণ! যে কোনো স্তরের শিক্ষার্থী এখানে সহজে শিখতে পারবে।",
+    "name": "Md. Hasan Ali",
+    "role": "Student",
+    "method": "The Learning Point",
+    "avatar": "https://i.ibb.co.com/qLXmnqbF/download.jpg"
+  },
+  {
+    "id": 5,
+    "rating": 4.8,
+    "review": "The Learning Point এ কোর্স কমপ্লিট করার পর আমার স্কিল অনেক বেড়েছে। সাপোর্ট টিমও খুব হেল্পফুল।",
+    "name": "Shorna Jahan",
+    "role": "Student",
+    "method": "The Learning Point",
+    "avatar": "https://i.ibb.co.com/fdT4y0t9/download.jpg"
+  },
+  {
+    "id": 6,
+    "rating": 5.0,
+    "review": "ওয়েবসাইটটি খুবই ফাস্ট, রেসপন্সিভ এবং ব্যবহার করতে দারুণ সহজ। শেখার অভিজ্ঞতাটা স্মুথ ও আনন্দদায়ক।",
+    "name": "Rakib Hasan",
+    "role": "Student",
+    "method": "The Learning Point",
+    "avatar": "https://i.ibb.co.com/ZpxJhkjc/download.jpg"
+  }
+]
